@@ -25,7 +25,7 @@ Simulates core banking functionalities through a text-based interface. Users can
 
 ## 📂 Files
 
-- `coetric-Banking-System.cpp`: Complete source code for the application
+- `cometric_Banking-System.txt`: Complete source code for the application
 
 ## 🧠 Internship Context
 
