@@ -1,4 +1,4 @@
-# cometric_Banking-System – C++ Console Application
+# Codmetric_Banking-System – C++ Console Application
 
 A lightweight, modular banking system developed in C++ as part of an internship task at **Codmetric**. This console-based application demonstrates essential banking operations with clean object-oriented design.
 
@@ -25,7 +25,7 @@ Simulates core banking functionalities through a text-based interface. Users can
 
 ## 📂 Files
 
-- `main.cpp`: Complete source code for the application
+- `coetric-Banking-System.cpp`: Complete source code for the application
 
 ## 🧠 Internship Context
 
