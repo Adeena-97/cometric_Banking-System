@@ -39,6 +39,9 @@ Developed during an internship at **Codmetric** to demonstrate proficiency in:
 Created by **Adeena Tariq**  
 Intern – *Codmetric*
 
+## System Preview 
+
+```txt
 
 ========== BANKING SYSTEM ==========
 1. Create New Account
