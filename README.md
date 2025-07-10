@@ -38,3 +38,14 @@ Developed during an internship at **Codmetric** to demonstrate proficiency in:
 
 Created by **Adeena Tariq**  
 Intern – *Codmetric*
+
+
+========== BANKING SYSTEM ==========
+1. Create New Account
+2. Deposit Money
+3. Withdraw Money
+4. Balance Inquiry
+5. Display All Accounts
+6. Exit
+====================================
+
